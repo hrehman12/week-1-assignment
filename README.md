@@ -6,6 +6,7 @@ AS A marketing agency
 A codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
+[Link to Deployed website](https://hrehman12.github.io/week-1-assignment/)
 
 ### Acceptance Criteria Completed
 
@@ -13,8 +14,7 @@ website must meet accessibility standards. we achieved this by completing the fo
 
 1.  Semantic HTML elements can be found throughout the source code
 
- * Completed research for sementic elements 
- https://www.w3schools.com/html/html5_semantic_elements.asp
+ * [Completed research for sementic elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 2. HTML elements follow a logical structure independent of styling and positioning
 
